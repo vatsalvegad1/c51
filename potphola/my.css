@@ -1,0 +1,21 @@
+h1{
+    color:red;
+    background-color: blue;
+}
+*{
+    border: solid;
+}
+.div1{
+    background-color: pink;
+    display:flex;
+    justify-content: left;
+}
+.div2{
+    border: solid;
+    border-color: red;
+    display:flex;
+    justify-content: space-between;
+}
+body{
+    background-color:#808080 ;
+}
